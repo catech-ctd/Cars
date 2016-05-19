@@ -1,0 +1,5 @@
+HTTP/1.1 404
+Content-Disposition:attachment;filename=f.txt
+Content-Type:application/json;charset=UTF-8
+
+{"timestamp":1461245621971,"status":404,"error":"Not Found","message":"No message available","path":"/cars-app/cars-app/assets/favicon-edf314829aedb07bde5cbb3684c17d09.ico"}

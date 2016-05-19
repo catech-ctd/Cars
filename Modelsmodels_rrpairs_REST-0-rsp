@@ -1,0 +1,8 @@
+HTTP/1.1 404
+Pragma:no-cache
+Cache-Control:no-store
+X-Application-Context:application:production:3434
+Content-Disposition:attachment;filename=f.txt
+Content-Type:application/json;charset=UTF-8
+
+{"app.version":"9.5.0-SNAPSHOT"}
